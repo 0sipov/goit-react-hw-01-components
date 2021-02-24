@@ -1,0 +1,26 @@
+.statistics {
+  max-width: 500px;
+}
+.title {
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+.statList {
+  display: flex;
+  justify-content: space-around;
+}
+.item {
+  width: 100%;
+  padding: 20px 0;
+  color: aliceblue;
+}
+.label {
+  display: block;
+  text-align: center;
+}
+.percentage {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}

@@ -1,11 +1,9 @@
 import './App.css';
+import Profile from './components/Profile/Profile';
+import userData from './user.json';
 
 function App() {
-  return (
-    <div className="App">
-    <h1>Hello world</h1>
-    </div>
-  );
+  return <Profile props={userData} />;
 }
 
 export default App;

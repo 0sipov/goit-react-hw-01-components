@@ -1,0 +1,21 @@
+.item {
+  max-width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 16px 16px 26px -16px rgba(34, 60, 80, 0.2);
+}
+.status {
+  margin-right: 20px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.avatar {
+  margin-right: 20px;
+}
+.name {
+  margin: auto;
+}
